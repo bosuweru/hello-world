@@ -1,3 +1,3 @@
-# Hello, World!
+# :wave: Hello, World!
 
 A simple "hello, world" repository.
